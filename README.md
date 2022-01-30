@@ -3,6 +3,7 @@ In this project ,we have given car price and some features affecting price and w
 
 ![alt text](https://user-images.githubusercontent.com/91171166/151691982-9410150c-b8b2-4116-a5c4-e6a0499e0d66.png)
 
+### The dependent variable is PRICE (of car)<br/>
 ### The features(or independent variables) are :<br/>
 1. Brand<br/>
 2. Body<br/>
@@ -13,9 +14,7 @@ In this project ,we have given car price and some features affecting price and w
 7. Year<br/>
 8. Model<br/>
 
-The dependent variable is PRICE (of car)
-
-The data has 4345 row or entries in the dataset.
+The data has 4345 rows (or entries).
 
 ### What is done in the project?<br/>
 * Identification of missing values and their treatment.<br/>
@@ -26,4 +25,4 @@ The data has 4345 row or entries in the dataset.
 * Standardising features and applying train test split.<br/>
 * Applying linear regression to the entire dataset to get a model.
 
-## The final model Mse is 0.384 and R squared is approximately 62%
+### The final model Mse is 0.384 and R squared is approximately 62%
