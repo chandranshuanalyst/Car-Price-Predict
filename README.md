@@ -23,7 +23,7 @@ The features(or independent variables) are :
 
 The dependent variable is PRICE
 
-The data has 4345 row or entries.
+The data has 4345 row or entries in the dataset.
 
 What is done in the project?
 1)Identification of missing values and their treatment
