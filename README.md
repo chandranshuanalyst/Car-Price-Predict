@@ -25,4 +25,4 @@ The data has 4345 rows (or entries).
 * Standardising features and applying train test split.<br/>
 * Applying linear regression to the entire dataset to get a model.
 
-### The Multiple Linear Regression model has Mse equal to 0.384 and R squared equal to approximately 62% .
+### The Multiple Linear Regression model has MSE equal to 0.384 and R squared equal to approximately 62% .
