@@ -3,7 +3,7 @@ In this project ,we have given car price and some features affecting price and w
 
 ![alt text](https://user-images.githubusercontent.com/91171166/151691982-9410150c-b8b2-4116-a5c4-e6a0499e0d66.png)
 
-### The dependent variable is PRICE (of car)<br/>
+### The dependent variable is PRICE (of car).<br/>
 ### The features(or independent variables) are :<br/>
 1. Brand<br/>
 2. Body<br/>
