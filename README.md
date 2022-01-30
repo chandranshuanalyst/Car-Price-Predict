@@ -26,4 +26,4 @@ The data has 4345 row or entries in the dataset.
 * Standardising features and applying train test split.<br/>
 * Applying linear regression to the entire dataset to get a model.
 
-The final model Mse is 0.384 and R squared is approximately 62%
+## The final model Mse is 0.384 and R squared is approximately 62%
