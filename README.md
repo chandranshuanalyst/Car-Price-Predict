@@ -4,13 +4,21 @@ In this project ,we have given car price and some features affecting price and w
 ![alt text](https://user-images.githubusercontent.com/91171166/151691982-9410150c-b8b2-4116-a5c4-e6a0499e0d66.png)
 
 The features(or independent variables) are :
+
 1)Brand
-2)Body.
+
+2)Body
+
 3)Mileage
+
 4)EngineV
+
 5)Engine Type
+
 6)Registration	
+
 7)Year
+
 8)Model
 
 The dependent variable is PRICE
