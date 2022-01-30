@@ -17,7 +17,7 @@ The dependent variable is PRICE
 
 The data has 4345 row or entries in the dataset.
 
-What is done in the project?<br/>
+# What is done in the project?<br/>
 1)Identification of missing values and their treatment.<br/>
 2)Treatment of outliers in features.<br/>
 3)Adjusting price so that features and modified price is linearly related.<br/>
